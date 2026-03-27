@@ -14,8 +14,8 @@ Built with real clinical experience as a Patient Care Technician, ClinicFlow foc
 
 ## 🔗 Project Repositories
 
-- 💻 Frontend: https://github.com/mbafousu/clinicflow-frontend  
-- ⚙️ Backend: https://github.com/mbafousu/clinicflow-backend  
+- 💻 Frontend: https://github.com/mbafousu/ClinicFlow-Frontend.git
+- ⚙️ Backend:  https://github.com/mbafousu/ClinicFlow-Backend.git
 
 ---
 
@@ -35,7 +35,7 @@ ClinicFlow simulates a real-world clinic system where healthcare staff can:
 
 - ✅ Patient Management (Full CRUD)  
 - ✅ Visit Tracking (Full CRUD)  
-- ✅ Appointment Scheduling & Management ✅ NEW  
+- ✅ Appointment Scheduling & Management  
 - ✅ JWT Authentication (secure login & protected routes)  
 - ✅ Drug Lookup (FDA API integration)  
 - ✅ Search & filtering (patients & visits)  
