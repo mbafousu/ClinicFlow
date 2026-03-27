@@ -49,7 +49,7 @@ ClinicFlow simulates a real-world clinic system where healthcare staff can:
 ![Login](./screenshots/login.png)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dash.png)
 
 ### Patients
 ![Patients](./screenshots/patients.png)
